@@ -39,7 +39,7 @@ monitors:
     expectStatus: 200
 
   - id: gazellio-com
-    name: The Cloudflare Blog
+    name: The Gazellio Website
     url: 'https://www.gazellio.com/'
     method: GET
     expectStatus: 200
